@@ -1,4 +1,14 @@
+//git modified
 git init
 git add <file>
 git commit -m <message>
+git status
+git diff
+//git version back
+git log
+git log --pretty=oneline
+git reset --hard HEAD^
+HEAD^^ HEAD-100
+git reset --hard ****
+git reflog
 
