@@ -18,4 +18,4 @@ git reset HEAD <file> // unstage to workspace
 git remote add origin https://github.com/Daniel-Net/Git.git
 git remote remove
 git push -u origin master
-
+git push origin master
