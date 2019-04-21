@@ -14,5 +14,8 @@ git reflog
 //no change modified
 git checkout -- <file>  //no change workspace
 git reset HEAD <file> // unstage to workspace
-
+//git remote
+git remote add origin https://github.com/Daniel-Net/Git.git
+git remote remove
+git push -u origin master
 
