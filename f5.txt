@@ -1,7 +1,5 @@
-C1 F5
-consloe:9600
+39 C1 F5
+consloe: 9600
 
-C2 F5
-console:19200
-
-
+40 C2 F5
+console: 19200
